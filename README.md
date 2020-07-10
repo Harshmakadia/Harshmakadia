@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Secert Mission 🚀
 - 📫 How to reach me: harshmakadia.github.io
 - ⚡ Fun fact: One man's constant is another man's variable
+- 😄 Pronouns: he / him
 
 <!--
 **Harshmakadia/Harshmakadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
