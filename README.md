@@ -11,6 +11,9 @@
 ### Website 🌍
 👉🏻 https://harshmakadia.me/
 
+<a href="https://twitter.com/intent/follow?screen_name=makadiaharsh"><img src="https://img.shields.io/twitter/follow/makadiaharsh.svg?label=Follow%20@makadiaharsh" alt="Follow @makadiaharsh"></img></a>
+</p>
+
 <!--
 **Harshmakadia/Harshmakadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
