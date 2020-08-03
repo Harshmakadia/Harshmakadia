@@ -8,6 +8,14 @@
 ### Blogs 📕
 👉🏻 https://harshmakadia.me/blogs
 
+### Featured Blog Posts 🌟
+<!-- BLOG-POST-LIST:START -->
+- [Why React16 is a blessing to React developers 💥](https://medium.com/free-code-camp/why-react16-is-a-blessing-to-react-developers-31433bfc210a)
+- [Tips to Level Up Your JavaScript and React Skills 💡](https://medium.com/better-programming/tips-to-level-up-your-javascript-and-react-skills-62bfbbb9b4d)
+- [Mastering JS console.log like a Pro 🎯](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+- [Making API Calls with React Hooks 🔆](https://blog.bitsrc.io/making-api-calls-with-react-hooks-748ebfc7de8c)
+<!-- BLOG-POST-LIST:END -->
+
 ### Website 🌍
 👉🏻 https://harshmakadia.me/
 
