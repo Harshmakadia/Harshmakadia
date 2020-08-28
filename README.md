@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Secert Mission 🚀
-- 📫 How to reach me: harshmakadia.github.io
+- 📫 How to reach me: https://harshmakadia.me/
 - ⚡ Fun fact: One man's constant is another man's variable
 - 😄 Pronouns: he / him
 
@@ -20,8 +20,6 @@
 - [Making API Calls with React Hooks 🔆](https://blog.bitsrc.io/making-api-calls-with-react-hooks-748ebfc7de8c)
 <!-- BLOG-POST-LIST:END -->
 
-### Website 🌍
-👉🏻 https://harshmakadia.me/
 
 <a href="https://twitter.com/intent/follow?screen_name=makadiaharsh"><img src="https://img.shields.io/twitter/follow/makadiaharsh.svg?label=Follow%20@makadiaharsh" alt="Follow @makadiaharsh"></img></a>
 </p>
