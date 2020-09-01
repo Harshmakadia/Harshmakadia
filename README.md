@@ -18,6 +18,7 @@
 - [Tips to Level Up Your JavaScript and React Skills 💡](https://medium.com/better-programming/tips-to-level-up-your-javascript-and-react-skills-62bfbbb9b4d)
 - [Mastering JS console.log like a Pro 🎯](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 - [Making API Calls with React Hooks 🔆](https://blog.bitsrc.io/making-api-calls-with-react-hooks-748ebfc7de8c)
+- [10 Tips and Tricks to Boost Your React App’s Performance in 2020 🚀](https://medium.com/better-programming/10-tips-and-tricks-to-boost-your-react-apps-performance-in-2020-9388159f6ebf)
 <!-- BLOG-POST-LIST:END -->
 
 
