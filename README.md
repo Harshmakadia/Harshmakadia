@@ -5,6 +5,8 @@
 - ⚡ Fun fact: One man's constant is another man's variable
 - 😄 Pronouns: he / him
 
+---
+
 ### Blogs 📕
 👉🏻 https://harshmakadia.me/blogs
 
@@ -14,6 +16,8 @@
 
 ### No code tools 🔥
 👉🏻 https://harshmakadia.ml/nocode
+
+--- 
 
 ### Featured Blog Posts 🌟
 <!-- BLOG-POST-LIST:START -->
