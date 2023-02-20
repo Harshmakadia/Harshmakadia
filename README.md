@@ -12,7 +12,7 @@
 
 
 ### Join the Newsletter 📬
-👉🏻 https://www.getrevue.co/profile/makadiaharsh
+👉🏻 https://techthatmatters.beehiiv.com/
 
 ### No code tools 🔥
 👉🏻 https://harshmakadia.ml/nocode
