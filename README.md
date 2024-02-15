@@ -34,8 +34,6 @@
 <a href="https://twitter.com/intent/follow?screen_name=makadiaharsh"><img src="https://img.shields.io/twitter/follow/makadiaharsh.svg?label=Follow%20@makadiaharsh" alt="Follow @makadiaharsh"></img></a>
 </p>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshmakadia&theme=onedark&show_icons=true&count_private=true)
-
 <p> 
   Welcome buddy 👋🏻! You're visitor No. <br>
   <img src="https://profile-counter.glitch.me/HarshMakadia/count.svg" />
